@@ -12,7 +12,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project runs using command line and has package delivery trucks pick up and drop off packages in an efficient manner to meet a minimum miles driven and time taken requirement. The data and performance is all conceptual, and certain things such as the speed of the trucks and loading speeds were pre-defined. The program itself has to simulate the passage of time as if the trucks were driving at the assumed speeds. When run, user input is requested so you can see what the status of all or specific packages is at any point in the sample day.
+This project runs using command line and has package delivery trucks pick up and drop off packages in an efficient manner to meet a minimum miles driven and time taken requirement. The data and performance is all conceptual, and certain things such as the speed of the trucks and loading speeds were pre-defined. The program itself has to simulate the passage of time as if the trucks were driving at the assumed speeds. When run, user input is requested so you can see what the status of all or specific packages is at any point in the sample day. A simple nearest neighbor algorithm is used to optimize the routes in addition to some initial manual loading of specific packages into the delivery trucks.
 
 
 <hr/>
